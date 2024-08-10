@@ -11,7 +11,8 @@ A brief description of your project goes here. Explain what your project does an
 
 To get started with this project, follow these steps:
 
-1. **Clone the Repository**
+
+   ```bash
 
 
 
