@@ -9,6 +9,16 @@ A brief description of your project goes here. Explain what your project does an
 Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository**
+ ```bash
+   cd BMC-insight-signup-and-login-page
+```
+ ```bash
+npm i
+```
+ ```bash
+npm run dev
+```
+Go to localhost 3000
+enjoy the project
 
-   ```bash
-cd BMC-insight-signup-and-login-page
+
