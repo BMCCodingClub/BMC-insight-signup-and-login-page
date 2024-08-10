@@ -13,10 +13,5 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**
 
-   ```bash
-cd BMC-insight-signup-and-login-page
-   ```bash
-npm i
-   ```bash
-npm run dev
+
 
