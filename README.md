@@ -13,8 +13,8 @@ To get started with this project, follow these steps:
 
 
    ```bash
-1) cd BMC-insight-signup-and-login-page
-2) npm i
+ cd BMC-insight-signup-and-login-page
+
 
 
 
