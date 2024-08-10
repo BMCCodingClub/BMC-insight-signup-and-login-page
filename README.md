@@ -1,20 +1,34 @@
-# BMC-insight-signup-and-login-page
-this is the singup and login page with the db backed there is no middleware or authetication but i can be added easily 
-
 # Project Name
 
 ## Description
 
 A brief description of your project goes here. Explain what your project does and its key features.
 
-## Installation
+## Installation and Running the Project
 
-To get started with this project, follow these steps:
+Follow these steps to set up and run the project locally:
 
-
-   ```bash
- cd BMC-insight-signup-and-login-page
-
+1. **Clone the Repository**
 
    ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+Navigate to the Project Directory
 
+bash
+Copy code
+cd your-repo-name
+Install Dependencies
+
+bash
+Copy code
+npm install
+Start the Development Server
+
+bash
+Copy code
+npm run dev
+Open Your Browser and Go to
+
+arduino
+Copy code
+http://localhost:3000
