@@ -13,7 +13,10 @@ To get started with this project, follow these steps:
 
 
    ```bash
-cd repo_name
+cd BMC-insight-signup-and-login-page
+
+   ```bash
+npm i
 
 
 
